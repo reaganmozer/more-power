@@ -1,5 +1,5 @@
 ## About 
-This repository contains the materials needed to replicate the analyses presented in **"More power to you: Using machine learning to augment human coding for more efficient inference in text-based randomized trials"** by Mozer and Miratrix (2024).
+This repository contains the materials needed to replicate the analyses presented in **"More power to you: Using machine learning to augment human coding for more efficient inference in text-based randomized trials"** by Mozer and Miratrix (2024), forthcoming in the *Annals of Applied Statistics*. 
 
 ## Replication Data
 The two data sets used in this study are publicly available and can be downloaded by following the instructions below.
